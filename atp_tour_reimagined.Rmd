@@ -1,6 +1,6 @@
 ---
 title: "Reimagining the ATP Tour"
-output: html_document
+output: rmarkdown::github_document
 author: "Joshua Snoke"
 date: 01-13-2024
 ---
