@@ -3,7 +3,19 @@ Reimagining the ATP Tour
 Joshua Snoke
 01-13-2024
 
-## The Current Tour, Crisscrossing the Globe
+## TL;DR
+
+1)  By simply re-ordering the major events of the ATP tour, one could
+    reduce the flight distance traveled and emissions produced by almost
+    40%.
+2)  The tour can still have the same events and cohesive sequence of
+    different surfaces.
+3)  This is, of course, a fantasy, but it is extremely low hanging fruit
+    to realize that you could reduce the environmental impact this much
+    simply by moving the dates of events without needing to change
+    anything else about the tour!
+
+### The Current Tour, Crisscrossing the Globe
 
 The current ATP tour crisscrosses the globe numerous times, expending
 incredible amounts of jet fuel. As an avid tennis fan, I have often
@@ -66,7 +78,7 @@ the current path to all 20 tournaments, that would be roughly 62,667
 kilometers! That is equal to flying around the whole earth more than one
 and a half times…
 
-![](atp_tour_reimagined_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+<img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-2-1.png" style="display: block; margin: auto;" /><img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-2-1.gif" style="display: block; margin: auto;" />
 
 ### Finding a Shorter Path Between Tournaments
 
@@ -90,17 +102,17 @@ following optimal path:
 | rome            | 1000   | clay    |  41.80324 |   12.250241 |
 | barcelona       | 500    | clay    |  41.29828 |    2.078680 |
 | madrid          | 1000   | clay    |  40.48214 |   -3.566176 |
-| queens          | 500    | grass   |  51.46818 |   -0.456048 |
 | wimbledon       | major  | grass   |  51.46818 |   -0.456048 |
-| paris           | 1000   | indoor  |  49.00751 |    2.550525 |
+| queens          | 500    | grass   |  51.46818 |   -0.456048 |
 | roland garros   | major  | clay    |  49.00751 |    2.550525 |
+| paris           | 1000   | indoor  |  49.00751 |    2.550525 |
 | monte carlo     | 1000   | clay    |  43.66551 |    7.211346 |
 | turin           | finals | indoor  |  45.19612 |    7.647438 |
 
 We still have to go pretty far, but now it’s only 37,605 kilometers. We
 reduced the distance flown (and emissions produced) by 40%.
 
-![](atp_tour_reimagined_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+<img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-4-1.png" style="display: block; margin: auto;" /><img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-4-1.gif" style="display: block; margin: auto;" />
 
 ### Creating a Shorter, Sensible Tour
 
@@ -149,11 +161,17 @@ each swing, we have to fly 38,555 kilometers. That’s not a whole lot
 more than the shortest path. And still a reduction of 38% in
 km/emissions from the current tour!
 
-![](atp_tour_reimagined_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+Some might critique this order for ignoring weather, but I believe it is
+entirely possible. The biggest challenge would be the North American
+tournaments in colder areas, but if you started a little later you could
+probably get the coldest ones into May/June and still have plenty of
+time for the Europe swing.
+
+<img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-6-1.png" style="display: block; margin: auto;" /><img src="atp_tour_reimagined_files/figure-gfm/unnamed-chunk-6-1.gif" style="display: block; margin: auto;" />
 
 ### Final Thoughts
 
-This little excercise was not rocket science, but that is possibly the
+This little exercise was not rocket science, but that is possibly the
 most important point. The ATP tour (and tennis in general) simply does
 not need to cross the globe as much as it does. Without changing any of
 the main tournaments, we could reduce the distance flown by 38%(!)
@@ -182,9 +200,9 @@ the same.
 | washington      | rome            | wimbledon       |
 | montreal        | barcelona       | monte carlo     |
 | cincinnati      | madrid          | rome            |
-| us open         | queens          | barcelona       |
-| tokyo           | wimbledon       | madrid          |
-| shangai         | paris           | roland garros   |
-| vienna          | roland garros   | paris           |
+| us open         | wimbledon       | barcelona       |
+| tokyo           | queens          | madrid          |
+| shangai         | roland garros   | roland garros   |
+| vienna          | paris           | paris           |
 | paris           | monte carlo     | vienna          |
 | turin           | turin           | turin           |
