@@ -1,0 +1,28 @@
+level, tournament, surface, lat, lon, simul
+major, australian open, hard, -37.674911, 144.847470, no
+500, rotterdam, indoor, 51.950553, 4.433455, no
+500, rio de janeiro, clay, -22.819066, -43.240919, no
+500, dubai, hard, 25.256579, 55.363451, yes
+500, acapulco, hard, 16.761104, -99.756641, yes
+1000, indian wells, hard, 33.827718, -116.509725, no
+1000, miami, hard, 25.795368, -80.279788, no
+1000, monte carlo, clay, 43.665505, 7.211346, no
+500, barcelona, clay, 41.298283, 2.078680, no
+1000, madrid, clay, 40.482144, -3.566176, no
+1000, rome, clay, 41.803235, 12.250241, no
+major, roland garros, clay, 49.007508, 2.550525, no
+500, halle, grass, 51.418552, 12.233359, yes
+500, queens, grass, 51.468179, -0.456048, yes
+major, wimbledon, grass, 51.468179, -0.456048, no
+500, hamburg, clay, 53.633326, 9.997083, no
+500, washington, hard, 38.853384, -77.044837, no
+1000, montreal, hard, 45.465693, -73.746640, no
+1000, cincinnati, hard, 39.051076, -84.667403, no
+major, us open, hard, 40.644209, -73.779800, no
+500, beijing, hard, 40.072591, 116.600936, yes
+500, tokyo, hard, 35.549446, 139.778755, yes
+1000, shangai, hard, 31.149976, 121.809091, no
+500, basel, indoor, 47.596910, 7.525598, yes
+500, vienna, indoor, 48.117847, 16.565521, yes
+1000, paris, indoor, 49.007508, 2.550525, no
+finals, turin, indoor, 45.196120, 7.647438, no
